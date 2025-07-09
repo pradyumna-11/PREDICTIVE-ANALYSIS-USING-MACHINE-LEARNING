@@ -135,3 +135,10 @@ These visualizations added interpretability and insights into the model’s deci
 ---
 
 This task highlights the core process of building predictive models, a crucial skill in data science and machine learning roles. It reflects your understanding of supervised learning, model evaluation, and real-world data challenges.
+
+## Output:
+
+<img width="388" height="447" alt="Image" src="https://github.com/user-attachments/assets/23eca236-25db-4eb2-9af5-2c333e15e330" />
+
+
+<img width="616" height="318" alt="Image" src="https://github.com/user-attachments/assets/afaf3c0d-9ae3-4c8b-a19f-9c2a4ccc7eb5" />
